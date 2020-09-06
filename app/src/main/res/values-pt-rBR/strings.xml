@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Star List</string>
+    <string name="listas">Listas</string>
+    <string name="grocerylist">GroceryList</string>
+    <string name="seja_premium">Seja Premium!</string>
+    <string name="nos_avalie">Nos Avalie!</string>
+    <string name="compartilhar_app">Compartilhar App</string>
+    <string name="configuracoes">Configuracoes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome_da_lista">Nome da Lista</string>
+    <string name="adicionar_lista">Adicionar Lista</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="novo_nome_lista">Novo nome da lista</string>
+    <string name="items">Items</string>
+    <string name="_12">12</string>
+    <string name="incluir_item">Criar um Item</string>
+    <string name="nome_item">Nome do Item</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="editar_item">Editar Item</string>
+    <string name="geral">Geral</string>
+    <string name="idioma">Idioma</string>
+    <string name="choose_language">Escolha o Idioma</string>
+    <string name="language">Portugues</string>
+    <string name="version">Versao</string>
+    <string name="privacy">Privacidade</string>
+    <string name="share">Compartilhar</string>
+    <string name="share_subject">Compartilhar Star List</string>
+    <string name="share_body">Confira a mais nova lista de compras na Play Store: Star List. Voce não pode perder esta chance</string>
+    <string name="addListText">Adicionar nova lista -></string>
+    <string name="addItemText">Adicionar novo item -></string>
+    <string name="_0_99">$0.99</string>
+    <string name="star_list_is_free_but_you_can_have_some_more_features_for_a_small_price">Star List é grátis, mas você pode usar algums outros recursos por um preco pequeno</string>
+    <string name="buy">Comprar</string>
+    <string name="already_bought">Você é Premium</string>
+    <string name="basic_account">Conta Básica</string>
+    <string name="basic_desc">Sua conta é básica. Todos os recursos estão disponíveis pra você, mas ainda está vendo propagandas.</string>
+    <string name="premium_account">Conta Premium</string>
+    <string name="premium_desc">Sua conta é Premium. Você não vê nenhum anúncio.</string>
+    <string name="remove_ads">Remover anúncios</string>
+</resources>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Star List</string>
+    <string name="listas">Lists</string>
+    <string name="grocerylist">GroceryList</string>
+    <string name="seja_premium">Be Premium!</string>
+    <string name="nos_avalie">Rate Us!</string>
+    <string name="compartilhar_app">Share App</string>
+    <string name="configuracoes">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome_da_lista">List Name</string>
+    <string name="adicionar_lista">Add List</string>
+    <string name="cancelar">Cancel</string>
+    <string name="adicionar">Add</string>
+    <string name="confirmar">Confirm</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="novo_nome_lista">New List Name</string>
+    <string name="items">Items</string>
+    <string name="_12">12</string>
+    <string name="incluir_item">Create Item</string>
+    <string name="nome_item">Item Name</string>
+    <string name="quantidade">Amount</string>
+    <string name="editar_item">Edit Item</string>
+    <string name="geral">General</string>
+    <string name="idioma">Language</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="language">English</string>
+    <string name="version">Version</string>
+    <string name="privacy">Privacy</string>
+    <string name="share">Share</string>
+    <string name="share_subject">Share Star List</string>
+    <string name="share_body">Check out the newest grocery list app at Play Store: Star List. You can\'t lose this chance</string>
+    <string name="addListText">Add new list -></string>
+    <string name="addItemText">Add new item -></string>
+    <string name="_0_99">$0.99</string>
+    <string name="star_list_is_free_but_you_can_have_some_more_features_for_a_small_price">Star List is free, but you can have some more features for a small price</string>
+    <string name="buy">Buy</string>
+    <string name="already_bought">You are Premium</string>
+    <string name="basic_account">Basic Account</string>
+    <string name="basic_desc">Your account is basic. Although all resources are available for you, you are still seeing ads.</string>
+    <string name="premium_account">Premium Account</string>
+    <string name="premium_desc">Your account is premium. You can\'t see any ads.</string>
+    <string name="remove_ads">Remove Ads</string>
+</resources>

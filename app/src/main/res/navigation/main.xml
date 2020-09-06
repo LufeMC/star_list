@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/listasID">
+
+    <fragment
+        android:id="@+id/listasID"
+        android:name="com.example.starlist.ListasFragment"
+        android:label="@string/listas"
+        tools:layout="@layout/fragment_listas" />
+    <fragment
+        android:id="@+id/settingsID"
+        android:name="com.example.starlist.ConfiguracoesFragment"
+        android:label="@string/configuracoes"
+        tools:layout="@layout/fragment_configuracoes" />
+    <fragment
+        android:id="@+id/premiumID"
+        android:name="com.example.starlist.PremiumFragment"
+        android:label="@string/seja_premium"
+        tools:layout="@layout/fragment_premium" />
+
+    <fragment android:id="@+id/shareID"
+        android:name="com.example.starlist.ShareFragment"
+        android:label="@string/share"
+        tools:layout="@layout/fragment_share"/>
+    <fragment
+        android:id="@+id/feedbackID"
+        android:name="com.example.starlist.FeedbackFragment"
+        android:label="@string/nos_avalie"
+        tools:layout="@layout/fragment_feedback" />
+
+</navigation>

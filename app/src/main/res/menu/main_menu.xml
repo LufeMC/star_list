@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/listasID"
+            android:icon="@drawable/listas"
+            android:title="@string/listas"/>
+
+        <item
+            android:id="@+id/premiumID"
+            android:icon="@drawable/premium"
+            android:title="@string/seja_premium"/>
+
+        <item
+            android:id="@+id/shareID"
+            android:icon="@drawable/recomendar"
+            android:title="@string/compartilhar_app"/>
+
+        <item
+            android:id="@+id/feedbackID"
+            android:icon="@drawable/feedback"
+            android:title="@string/nos_avalie"/>
+
+        <item
+            android:id="@+id/settingsID"
+            android:icon="@drawable/configuracoes"
+            android:title="@string/configuracoes"/>
+
+    </group>
+
+</menu>
